@@ -1,6 +1,6 @@
 # Nicolás Girón
 
-Ingeniero en Sistemas | Systems Engineer
+Ingeniero en Sistemas Informáticos | Computer Systems Engineer
 
 Desarrollo · Datos · Ciberseguridad | Development · Data · Cybersecurity
 
@@ -8,7 +8,7 @@ Desarrollo · Datos · Ciberseguridad | Development · Data · Cybersecurity
 
 ## Español
 
-Soy Nicolás Girón, Ingeniero en Sistemas. Mi trayectoria combina experiencia en auditoría IT con proyectos de desarrollo en C#, SQL y Python. Me interesan las oportunidades en desarrollo de software, datos y ciberseguridad, donde pueda aportar mi formación técnica y seguir profundizando mis conocimientos.
+Soy Nicolás Girón, Ingeniero en Sistemas Informáticos. Mi trayectoria combina experiencia en auditoría IT con proyectos de desarrollo en C#, SQL y Python. Me interesan las oportunidades en desarrollo de software, datos y ciberseguridad, donde pueda aportar mi formación técnica y seguir profundizando mis conocimientos.
 
 Me interesa construir aplicaciones mantenibles, trabajar con bases de datos y explorar la automatización y el procesamiento de datos. Mi experiencia en auditoría IT complementa ese enfoque con una perspectiva sobre controles y riesgos tecnológicos.
 
@@ -20,6 +20,13 @@ En este perfil comparto proyectos y ejercicios que muestran mi trabajo con aplic
 - **[Backend, base de datos y frontend](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd):** ComercioPedidos, un proyecto en C# con directorios separados para backend y frontend.
 - **[Northgate reconciliation](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron):** ejercicio técnico de conciliación con un script en Python, registro de reclamos, resumen ejecutivo, pruebas automatizadas y registro de trabajo con IA.
 - **[Python](https://github.com/HiroNk11/Phyton):** repositorio de proyectos en Python.
+
+### Formación académica
+
+**Universidad Abierta Interamericana (UAI)**
+
+- **Ingeniero en Sistemas Informáticos** — 2023.
+- **Analista de Sistemas** — título intermedio, 2022.
 
 ### Formación complementaria
 
@@ -33,7 +40,7 @@ Podés conocer más sobre mi trayectoria profesional y contactarme en [LinkedIn]
 
 ## English
 
-I'm Nicolás Girón, a Systems Engineer. My background combines IT audit experience with development projects using C#, SQL, and Python. I'm interested in opportunities in software development, data, and cybersecurity where I can contribute my technical background and continue developing my skills.
+I'm Nicolás Girón, a Computer Systems Engineer. My background combines IT audit experience with development projects using C#, SQL, and Python. I'm interested in opportunities in software development, data, and cybersecurity where I can contribute my technical background and continue developing my skills.
 
 My interests include maintainable applications, databases, automation, and data processing. My IT audit experience adds a perspective on technology controls and risks.
 
@@ -46,6 +53,13 @@ This profile features projects and exercises covering .NET applications, MVC arc
 - **[Northgate reconciliation](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron):** a technical reconciliation exercise featuring a Python script, a claim register, an executive summary, automated tests, and an AI working log.
 - **[Python](https://github.com/HiroNk11/Phyton):** a repository of Python projects.
 
+### Education
+
+**Universidad Abierta Interamericana (UAI)**
+
+- **Degree in Computer Systems Engineering** — 2023.
+- **Systems Analyst** — intermediate qualification, 2022.
+
 ### Additional training
 
 - LAB .NET + ANGULAR — NEORIS, April 2023.
@@ -53,3 +67,6 @@ This profile features projects and exercises covering .NET applications, MVC arc
 ### Contact
 
 Learn more about my professional background and get in touch on [LinkedIn](https://www.linkedin.com/in/nicolas-giron11/).
+
+
+
