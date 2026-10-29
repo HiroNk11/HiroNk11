@@ -25,6 +25,26 @@ Sistema de retail con una API compartida para una aplicación web y una aplicaci
 
 [Explorar ComercioPedidos →](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd)
 
+### Body Sport Gym · Gestión de gimnasios
+
+Sistema de escritorio para administrar socios, profesores, actividades, membresías, pagos, reservas y asistencia. Incluye planificación de sesiones, calendario semanal y lista de espera.
+
+**Stack:** C# · .NET Framework · Windows Forms · ADO.NET · SQL Server
+
+**Qué muestra:** arquitectura por capas, persistencia con transacciones, autorización por perfiles y gestión de procesos operativos.
+
+[Explorar Body Sport Gym →](https://github.com/HiroNk11/Sistema-de-Gimnasios-C---ADO.NET)
+
+### Sistema de Turnos · Agenda y reservas
+
+Aplicación configurable para consultorios y negocios de servicios. Integra profesionales, jornadas, calendario semanal, reservas, cobros parciales y confirmaciones por correo.
+
+**Stack:** C# · .NET 10 · Windows Forms · ADO.NET · SQL Server · API HTTPS
+
+**Qué muestra:** separación entre dominio, aplicación e infraestructura; prevención de superposiciones concurrentes con transacciones SQL; roles y modo cliente/servidor.
+
+[Explorar Sistema de Turnos →](https://github.com/HiroNk11/Sistema-de-Turnos-)
+
 ### Northgate Reconciliation · Conciliación de datos
 
 Ejercicio técnico de conciliación con un script en Python, registro de reclamos, resumen ejecutivo y pruebas automatizadas. Incluye un registro del trabajo con IA.
@@ -58,7 +78,8 @@ Tecnologías utilizadas en mis proyectos y temas que continúo profundizando:
 | Área | Tecnologías y prácticas |
 | --- | --- |
 | Backend | C#, .NET, ASP.NET Core, APIs REST |
-| Persistencia | SQL Server, SQL, Entity Framework Core |
+| Persistencia | SQL Server, SQL, Entity Framework Core, ADO.NET |
+| Escritorio | Windows Forms, .NET Framework, .NET |
 | Web | React, TypeScript |
 | Mobile | React Native, Expo |
 | Datos y automatización | Python, procesamiento y conciliación de datos |
@@ -101,6 +122,8 @@ I'm exploring opportunities in **software development, data and cybersecurity**.
 | Project | Focus |
 | --- | --- |
 | [ComercioPedidos](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd) | Retail management with ASP.NET Core, EF Core and SQL Server, shared by React web and React Native mobile clients. |
+| [Body Sport Gym](https://github.com/HiroNk11/Sistema-de-Gimnasios-C---ADO.NET) | Layered C# desktop application for memberships, payments, scheduling, reservations and attendance, using Windows Forms, ADO.NET and SQL Server. |
+| [Appointment System](https://github.com/HiroNk11/Sistema-de-Turnos-) | Configurable scheduling and payments with SQL concurrency controls, role-based access and an optional HTTPS client/server mode. |
 | [Northgate Reconciliation](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron) | Python reconciliation exercise with automated tests and technical and executive documentation. |
 | [.NET Projects](https://github.com/HiroNk11/.NetProyects) | Console and Windows Forms exercises covering OOP, MVC, SOLID and design patterns. |
 | [Python Projects](https://github.com/HiroNk11/Phyton) | Python programming projects and practice. |
