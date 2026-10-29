@@ -1,72 +1,117 @@
 # Nicolás Girón
 
-Ingeniero en Sistemas Informáticos | Computer Systems Engineer
+**Ingeniero en Sistemas Informáticos · Desarrollo de software y datos**
 
-Desarrollo · Datos · Ciberseguridad | Development · Data · Cybersecurity
+Construyo proyectos con **C#, .NET, SQL y Python**. Mi experiencia en **auditoría IT** complementa el desarrollo con una mirada sobre controles, riesgos tecnológicos y calidad de la información.
 
-[LinkedIn](https://www.linkedin.com/in/nicolas-giron11/) · [GitHub](https://github.com/HiroNk11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás_Girón-0A66C2?style=flat-square)](https://www.linkedin.com/in/nicolas-giron11/)
+[![Proyectos](https://img.shields.io/badge/GitHub-Ver_repositorios-181717?style=flat-square&logo=github)](https://github.com/HiroNk11?tab=repositories)
 
-## Español
+## Sobre mí
 
-Soy Nicolás Girón, Ingeniero en Sistemas Informáticos. Mi trayectoria combina experiencia en auditoría IT con proyectos de desarrollo en C#, SQL y Python. Me interesan las oportunidades en desarrollo de software, datos y ciberseguridad, donde pueda aportar mi formación técnica y seguir profundizando mis conocimientos.
+Soy Ingeniero en Sistemas Informáticos por la **Universidad Abierta Interamericana**. Me interesa desarrollar aplicaciones mantenibles, diseñar APIs y trabajar con bases de datos, automatización y procesamiento de información.
 
-Me interesa construir aplicaciones mantenibles, trabajar con bases de datos y explorar la automatización y el procesamiento de datos. Mi experiencia en auditoría IT complementa ese enfoque con una perspectiva sobre controles y riesgos tecnológicos.
+En mis proyectos practico separación de responsabilidades, arquitectura por capas, principios SOLID y patrones de diseño. Busco oportunidades en **desarrollo de software, datos y ciberseguridad**, donde pueda aportar mi formación y experiencia en auditoría IT mientras continúo creciendo técnicamente.
 
-En este perfil comparto proyectos y ejercicios que muestran mi trabajo con aplicaciones .NET, arquitectura MVC, patrones de diseño, principios SOLID y procesamiento de datos con Python.
+## Proyectos destacados
 
-### Proyectos destacados
+### ComercioPedidos · Gestión de indumentaria
 
-- **[Proyectos .NET](https://github.com/HiroNk11/.NetProyects):** proyectos de consola y Windows Forms orientados a practicar MVC, patrones de diseño, principios SOLID y buenas prácticas de desarrollo.
-- **[Backend, base de datos y frontend](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd):** ComercioPedidos, un proyecto en C# con directorios separados para backend y frontend.
-- **[Northgate reconciliation](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron):** ejercicio técnico de conciliación con un script en Python, registro de reclamos, resumen ejecutivo, pruebas automatizadas y registro de trabajo con IA.
-- **[Python](https://github.com/HiroNk11/Phyton):** repositorio de proyectos en Python.
+Sistema de retail con una API compartida para una aplicación web y una aplicación móvil. Integra gestión de productos, clientes, pedidos y movimientos de stock.
 
-### Formación académica
+**Stack:** C# · ASP.NET Core · Entity Framework Core · SQL Server · React · TypeScript · React Native · Expo
 
-**Universidad Abierta Interamericana (UAI)**
+**Qué muestra:** integración entre backend y clientes, persistencia relacional, organización por capas y flujos de negocio para pedidos y stock.
 
-- **Ingeniero en Sistemas Informáticos** — 2023.
-- **Analista de Sistemas** — título intermedio, 2022.
+[Explorar ComercioPedidos →](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd)
 
-### Formación complementaria
+### Northgate Reconciliation · Conciliación de datos
 
-- LAB .NET + ANGULAR — NEORIS, abril de 2023.
+Ejercicio técnico de conciliación con un script en Python, registro de reclamos, resumen ejecutivo y pruebas automatizadas. Incluye un registro del trabajo con IA.
 
-### Contacto
+**Enfoque:** Python · Conciliación · Validación de datos · Testing · Documentación
 
-Podés conocer más sobre mi trayectoria profesional y contactarme en [LinkedIn](https://www.linkedin.com/in/nicolas-giron11/).
+**Qué muestra:** análisis de diferencias y comunicación de resultados técnicos y ejecutivos.
+
+[Explorar el proyecto →](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron)
+
+### Laboratorio .NET · Fundamentos y diseño
+
+Colección de proyectos y ejercicios de C# que recorre aplicaciones de consola, Windows Forms, MVC, principios SOLID y patrones de diseño.
+
+**Enfoque:** C# · .NET · Windows Forms · SQL · Arquitectura · Patrones de diseño
+
+**Qué muestra:** práctica progresiva de programación orientada a objetos y organización del código.
+
+[Explorar proyectos .NET →](https://github.com/HiroNk11/.NetProyects)
+
+### Python · Práctica y exploración
+
+Repositorio de proyectos en Python para continuar desarrollando habilidades de programación.
+
+[Explorar proyectos Python →](https://github.com/HiroNk11/Phyton)
+
+## Stack y áreas de trabajo
+
+Tecnologías utilizadas en mis proyectos y temas que continúo profundizando:
+
+| Área | Tecnologías y prácticas |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, APIs REST |
+| Persistencia | SQL Server, SQL, Entity Framework Core |
+| Web | React, TypeScript |
+| Mobile | React Native, Expo |
+| Datos y automatización | Python, procesamiento y conciliación de datos |
+| Diseño de software | POO, SOLID, MVC, arquitectura por capas, patrones de diseño |
+| Calidad y colaboración | Git, GitHub, pruebas automatizadas, documentación técnica |
+| Experiencia complementaria | Auditoría IT, controles y riesgos tecnológicos |
+
+## Formación
+
+**Universidad Abierta Interamericana · UAI**
+
+- Ingeniería en Sistemas Informáticos · 2023.
+- Analista de Sistemas · Título intermedio, 2022.
+
+**Formación complementaria**
+
+- LAB .NET + Angular · NEORIS · Abril de 2023.
+
+## Contacto
+
+Para conocer mi trayectoria profesional o conversar sobre oportunidades:
+
+**[Conectemos en LinkedIn](https://www.linkedin.com/in/nicolas-giron11/)**
 
 ---
 
-## English
+<details>
+<summary><strong>English · About me and featured work</strong></summary>
 
-I'm Nicolás Girón, a Computer Systems Engineer. My background combines IT audit experience with development projects using C#, SQL, and Python. I'm interested in opportunities in software development, data, and cybersecurity where I can contribute my technical background and continue developing my skills.
+### About me
 
-My interests include maintainable applications, databases, automation, and data processing. My IT audit experience adds a perspective on technology controls and risks.
+I'm Nicolás Girón, a Computer Systems Engineer with IT audit experience and development projects using C#, .NET, SQL and Python.
 
-This profile features projects and exercises covering .NET applications, MVC architecture, design patterns, SOLID principles, and data processing with Python.
+I'm interested in maintainable applications, APIs, databases, automation and data processing. My audit background brings a perspective on technology controls, risks and information quality.
 
-### Featured projects
+I'm exploring opportunities in **software development, data and cybersecurity**.
 
-- **[.NET projects](https://github.com/HiroNk11/.NetProyects):** console and Windows Forms projects focused on practicing MVC, design patterns, SOLID principles, and good development practices.
-- **[Backend, database, and frontend](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd):** ComercioPedidos, a C# project with separate backend and frontend directories.
-- **[Northgate reconciliation](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron):** a technical reconciliation exercise featuring a Python script, a claim register, an executive summary, automated tests, and an AI working log.
-- **[Python](https://github.com/HiroNk11/Phyton):** a repository of Python projects.
+### Featured work
+
+| Project | Focus |
+| --- | --- |
+| [ComercioPedidos](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd) | Retail management with ASP.NET Core, EF Core and SQL Server, shared by React web and React Native mobile clients. |
+| [Northgate Reconciliation](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron) | Python reconciliation exercise with automated tests and technical and executive documentation. |
+| [.NET Projects](https://github.com/HiroNk11/.NetProyects) | Console and Windows Forms exercises covering OOP, MVC, SOLID and design patterns. |
+| [Python Projects](https://github.com/HiroNk11/Phyton) | Python programming projects and practice. |
 
 ### Education
 
-**Universidad Abierta Interamericana (UAI)**
+- Computer Systems Engineering · Universidad Abierta Interamericana · 2023.
+- Systems Analyst · Intermediate qualification · 2022.
+- LAB .NET + Angular · NEORIS · April 2023.
 
-- **Degree in Computer Systems Engineering** — 2023.
-- **Systems Analyst** — intermediate qualification, 2022.
+[Connect on LinkedIn](https://www.linkedin.com/in/nicolas-giron11/)
 
-### Additional training
-
-- LAB .NET + ANGULAR — NEORIS, April 2023.
-
-### Contact
-
-Learn more about my professional background and get in touch on [LinkedIn](https://www.linkedin.com/in/nicolas-giron11/).
-
-
+</details>
 
