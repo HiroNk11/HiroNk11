@@ -11,7 +11,7 @@ Construyo proyectos con **C#, .NET, SQL y Python**. Mi experiencia en **auditor�
 
 Soy Ingeniero en Sistemas Informáticos por la **Universidad Abierta Interamericana**. Me interesa desarrollar aplicaciones mantenibles, diseñar APIs y trabajar con bases de datos, automatización y procesamiento de información.
 
-En mis proyectos practico separación de responsabilidades, arquitectura por capas, principios SOLID y patrones de diseño. Busco oportunidades en **desarrollo de software, datos y ciberseguridad**, donde pueda aportar mi formación y experiencia en auditoría IT mientras continúo creciendo técnicamente.
+Trabajo principalmente con aplicaciones de gestión: reservas, pagos, stock y pedidos. En este perfil comparto sus interfaces, instrucciones de ejecución y decisiones de implementación. Me interesan oportunidades de desarrollo de software y datos; mi experiencia en auditoría IT aporta contexto para trabajar con permisos, trazabilidad y validación de información.
 
 ## Proyectos destacados
 
@@ -21,7 +21,7 @@ Sistema de retail con una API compartida para una aplicación web y una aplicaci
 
 **Stack:** C# · ASP.NET Core · Entity Framework Core · SQL Server · React · TypeScript · React Native · Expo
 
-**Qué muestra:** integración entre backend y clientes, persistencia relacional, organización por capas y flujos de negocio para pedidos y stock.
+La web y la aplicación móvil consumen los mismos endpoints para operar sobre productos, clientes y pedidos.
 
 [Explorar ComercioPedidos →](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd)
 
@@ -31,7 +31,7 @@ Sistema de escritorio para administrar socios, profesores, actividades, membres�
 
 **Stack:** C# · .NET Framework · Windows Forms · ADO.NET · SQL Server
 
-**Qué muestra:** arquitectura por capas, persistencia con transacciones, autorización por perfiles y gestión de procesos operativos.
+El calendario reúne las sesiones y sus participantes; los perfiles separan la administración de cuentas de las tareas de recepción.
 
 [Explorar Body Sport Gym →](https://github.com/HiroNk11/Sistema-de-Gimnasios-C---ADO.NET)
 
@@ -41,33 +41,29 @@ Aplicación configurable para consultorios y negocios de servicios. Integra prof
 
 **Stack:** C# · .NET 10 · Windows Forms · ADO.NET · SQL Server · API HTTPS
 
-**Qué muestra:** separación entre dominio, aplicación e infraestructura; prevención de superposiciones concurrentes con transacciones SQL; roles y modo cliente/servidor.
+Las reservas usan transacciones y bloqueo por profesional para evitar que dos operadores asignen el mismo horario. En el modo remoto, la conexión SQL permanece en el servidor.
 
 [Explorar Sistema de Turnos →](https://github.com/HiroNk11/Sistema-de-Turnos-)
 
 ### Northgate Reconciliation · Conciliación de datos
 
-Ejercicio técnico de conciliación con un script en Python, registro de reclamos, resumen ejecutivo y pruebas automatizadas. Incluye un registro del trabajo con IA.
+Ejercicio técnico de conciliación con un script en Python, registro de reclamos, resumen ejecutivo y pruebas automatizadas.
 
 **Enfoque:** Python · Conciliación · Validación de datos · Testing · Documentación
-
-**Qué muestra:** análisis de diferencias y comunicación de resultados técnicos y ejecutivos.
 
 [Explorar el proyecto →](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron)
 
 ### Laboratorio .NET · Fundamentos y diseño
 
-Colección de proyectos y ejercicios de C# que recorre aplicaciones de consola, Windows Forms, MVC, principios SOLID y patrones de diseño.
+Incluye una mesa de ayuda web con usuarios, roles e historial de tickets, y una API de reservas de espacios. También reúne ejercicios de consola, Windows Forms y patrones de diseño.
 
 **Enfoque:** C# · .NET · Windows Forms · SQL · Arquitectura · Patrones de diseño
-
-**Qué muestra:** práctica progresiva de programación orientada a objetos y organización del código.
 
 [Explorar proyectos .NET →](https://github.com/HiroNk11/.NetProyects)
 
 ### Python · Práctica y exploración
 
-Repositorio de proyectos en Python para continuar desarrollando habilidades de programación.
+Ejercicios sobre archivos CSV, programación orientada a objetos, consultas sobre colecciones y pruebas con unittest.
 
 [Explorar proyectos Python →](https://github.com/HiroNk11/Phyton)
 
@@ -137,4 +133,5 @@ I'm exploring opportunities in **software development, data and cybersecurity**.
 [Connect on LinkedIn](https://www.linkedin.com/in/nicolas-giron11/)
 
 </details>
+
 
