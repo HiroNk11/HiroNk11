@@ -7,6 +7,38 @@ Construyo proyectos con **C#, .NET, SQL y Python**. Mi experiencia en **auditor�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás_Girón-0A66C2?style=flat-square)](https://www.linkedin.com/in/nicolas-giron11/)
 [![Proyectos](https://img.shields.io/badge/GitHub-Ver_repositorios-181717?style=flat-square&logo=github)](https://github.com/HiroNk11?tab=repositories)
 
+<details>
+<summary>🇬🇧 Read in English</summary>
+
+### About me
+
+I'm Nicolás Girón, a Computer Systems Engineer with IT audit experience and development projects using C#, .NET, SQL and Python.
+
+I'm interested in maintainable applications, APIs, databases, automation and data processing. My audit background brings a perspective on technology controls, risks and information quality.
+
+I'm exploring opportunities in **software development, data and cybersecurity**.
+
+### Featured work
+
+| Project | Focus |
+| --- | --- |
+| [BurgerPedidos](https://github.com/HiroNk11/BurgerPedidos) | Food ordering platform with Expo storefront, React business panel and .NET 10 API; public demo with simulated payments. |
+| [RentaEquipos](https://github.com/HiroNk11/RentaEquipos) | Equipment availability, reservations, pickup and returns with ASP.NET Core 10, EF Core, SQL Server and React. |
+| [ComercioPedidos](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd) | Retail management with ASP.NET Core, EF Core and SQL Server, shared by React web and React Native mobile clients. |
+| [RBAC / ITGC](https://github.com/HiroNk11/rbac-itgc-provisioning) | In-memory access request API with role conflict validation, idempotency and hash-linked audit events; provisioning is not implemented yet. |
+| [Appointment System](https://github.com/HiroNk11/Sistema-de-Turnos-) | Configurable scheduling and payments with SQL concurrency controls, role-based access and an optional HTTPS client/server mode. |
+| [Northgate Reconciliation](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron) | Python reconciliation exercise with automated tests and technical and executive documentation. |
+
+### Education
+
+- Computer Systems Engineering · Universidad Abierta Interamericana · 2023.
+- Systems Analyst · Intermediate qualification · 2022.
+- LAB .NET + Angular · NEORIS · April 2023.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/nicolas-giron11/)
+
+</details>
+
 ## Sobre mí
 
 Soy Ingeniero en Sistemas Informáticos por la **Universidad Abierta Interamericana**. Me interesa desarrollar aplicaciones mantenibles, diseñar APIs y trabajar con bases de datos, automatización y procesamiento de información.
@@ -41,15 +73,15 @@ La web y la aplicación móvil consumen los mismos endpoints para operar sobre p
 
 [Explorar ComercioPedidos →](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd) · [Probar demo](https://nicolas-giron-comerciopedidos-demo.nicogiron09.chatgpt.site/)
 
-### Body Sport Gym · Gestión de gimnasios
+### RBAC / ITGC · Solicitudes de acceso y auditoría
 
-Sistema de escritorio para administrar socios, profesores, actividades, membresías, pagos, reservas y asistencia. Incluye planificación de sesiones, calendario semanal y lista de espera.
+Prototipo de API para registrar solicitudes de acceso, validar incompatibilidades de roles y conservar eventos de auditoría encadenados por hash. Incluye idempotencia y autenticación con API key.
 
-**Stack:** C# · .NET Framework · Windows Forms · ADO.NET · SQL Server
+**Stack:** C# · .NET 10 · ASP.NET Core · Pruebas de dominio y HTTP
 
-El calendario reúne las sesiones y sus participantes; los perfiles separan la administración de cuentas de las tareas de recepción.
+El almacenamiento es en memoria y se pierde al reiniciar. Este hito registra solicitudes; todavía no ejecuta el aprovisionamiento de cuentas.
 
-[Explorar Body Sport Gym →](https://github.com/HiroNk11/Sistema-de-Gimnasios-C---ADO.NET)
+[Explorar RBAC / ITGC →](https://github.com/HiroNk11/rbac-itgc-provisioning)
 
 ### Sistema de Turnos · Agenda y reservas
 
@@ -61,18 +93,6 @@ Las reservas usan transacciones y bloqueo por profesional para evitar que dos op
 
 [Explorar Sistema de Turnos →](https://github.com/HiroNk11/Sistema-de-Turnos-) · [Probar demo web](https://nicolas-giron-sistema-turnos-demo.nicogiron09.chatgpt.site/)
 
-Las demos permiten recorrer las interfaces con datos ficticios. La demo web de Turnos es una adaptación del cliente Windows Forms; los requisitos y el alcance de cada aplicación están documentados en su repositorio.
-
-### RBAC / ITGC · Solicitudes de acceso y auditoría
-
-Prototipo de API para registrar solicitudes de acceso, validar incompatibilidades de roles y conservar eventos de auditoría encadenados por hash. Incluye idempotencia y autenticación con API key.
-
-**Stack:** C# · .NET 10 · ASP.NET Core · Pruebas de dominio y HTTP
-
-El almacenamiento es en memoria y se pierde al reiniciar. Este hito registra solicitudes; todavía no ejecuta el aprovisionamiento de cuentas.
-
-[Explorar RBAC / ITGC →](https://github.com/HiroNk11/rbac-itgc-provisioning)
-
 ### Northgate Reconciliation · Conciliación de datos
 
 Ejercicio técnico de conciliación con un script en Python, registro de reclamos, resumen ejecutivo y pruebas automatizadas.
@@ -81,19 +101,9 @@ Ejercicio técnico de conciliación con un script en Python, registro de reclamo
 
 [Explorar el proyecto →](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron)
 
-### Laboratorio .NET · Fundamentos y diseño
+Las demos permiten recorrer las interfaces con datos ficticios. La demo web de Turnos es una adaptación del cliente Windows Forms; los requisitos y el alcance de cada aplicación están documentados en su repositorio.
 
-Incluye una mesa de ayuda web con usuarios, roles e historial de tickets, y una API de reservas de espacios. También reúne ejercicios de consola, Windows Forms y patrones de diseño.
-
-**Enfoque:** C# · .NET · Windows Forms · SQL · Arquitectura · Patrones de diseño
-
-[Explorar proyectos .NET →](https://github.com/HiroNk11/.NetProyects)
-
-### Python · Práctica y exploración
-
-Ejercicios sobre archivos CSV, programación orientada a objetos, consultas sobre colecciones y pruebas con unittest.
-
-[Explorar proyectos Python →](https://github.com/HiroNk11/Phyton)
+También podés explorar Body Sport Gym, Laboratorio .NET y las prácticas de Python en [Repositories](https://github.com/HiroNk11?tab=repositories).
 
 ## Stack y áreas de trabajo
 
@@ -127,42 +137,4 @@ Tecnologías utilizadas en mis proyectos y temas que continúo profundizando:
 Para conocer mi trayectoria profesional o conversar sobre oportunidades:
 
 **[Conectemos en LinkedIn](https://www.linkedin.com/in/nicolas-giron11/)**
-
----
-
-<details>
-<summary><strong>English · About me and featured work</strong></summary>
-
-### About me
-
-I'm Nicolás Girón, a Computer Systems Engineer with IT audit experience and development projects using C#, .NET, SQL and Python.
-
-I'm interested in maintainable applications, APIs, databases, automation and data processing. My audit background brings a perspective on technology controls, risks and information quality.
-
-I'm exploring opportunities in **software development, data and cybersecurity**.
-
-### Featured work
-
-| Project | Focus |
-| --- | --- |
-| [BurgerPedidos](https://github.com/HiroNk11/BurgerPedidos) | Food ordering platform with Expo storefront, React business panel and .NET 10 API; public demo with simulated payments. |
-| [RentaEquipos](https://github.com/HiroNk11/RentaEquipos) | Equipment availability, reservations, pickup and returns with ASP.NET Core 10, EF Core, SQL Server and React. |
-| [RBAC / ITGC](https://github.com/HiroNk11/rbac-itgc-provisioning) | In-memory access request API with role conflict validation, idempotency and hash-linked audit events; provisioning is not implemented yet. |
-| [ComercioPedidos](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd) | Retail management with ASP.NET Core, EF Core and SQL Server, shared by React web and React Native mobile clients. |
-| [Body Sport Gym](https://github.com/HiroNk11/Sistema-de-Gimnasios-C---ADO.NET) | Layered C# desktop application for memberships, payments, scheduling, reservations and attendance, using Windows Forms, ADO.NET and SQL Server. |
-| [Appointment System](https://github.com/HiroNk11/Sistema-de-Turnos-) | Configurable scheduling and payments with SQL concurrency controls, role-based access and an optional HTTPS client/server mode. |
-| [Northgate Reconciliation](https://github.com/HiroNk11/northgate-reconciliation-nicolas-giron) | Python reconciliation exercise with automated tests and technical and executive documentation. |
-| [.NET Projects](https://github.com/HiroNk11/.NetProyects) | Console and Windows Forms exercises covering OOP, MVC, SOLID and design patterns. |
-| [Python Projects](https://github.com/HiroNk11/Phyton) | Python programming projects and practice. |
-
-### Education
-
-- Computer Systems Engineering · Universidad Abierta Interamericana · 2023.
-- Systems Analyst · Intermediate qualification · 2022.
-- LAB .NET + Angular · NEORIS · April 2023.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/nicolas-giron11/)
-
-</details>
-
 
