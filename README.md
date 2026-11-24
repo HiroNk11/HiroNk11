@@ -15,6 +15,22 @@ Trabajo principalmente con aplicaciones de gestión: reservas, pagos, stock y pe
 
 ## Proyectos destacados
 
+### BurgerPedidos · Pedidos gastronómicos
+
+Plataforma con tienda web/móvil, panel del negocio y API para pedidos gastronómicos. Incluye una demo pública con carrito, promociones, seguimiento y pagos simulados.
+
+**Stack:** C# · .NET 10 · Entity Framework Core · SQL Server · React · React Native · Expo
+
+[Explorar BurgerPedidos →](https://github.com/HiroNk11/BurgerPedidos) · [Probar demo](https://burgerpedidos-demo.nicogiron09.chatgpt.site)
+
+### RentaEquipos · Alquiler de herramientas y equipos
+
+Gestión de inventario, clientes, disponibilidad por fechas, reservas, retiros y devoluciones. La API comprueba conflictos de reservas con transacciones y bloqueo por equipo.
+
+**Stack:** C# · ASP.NET Core 10 · Entity Framework Core 10 · SQL Server · React · TypeScript
+
+[Explorar RentaEquipos →](https://github.com/HiroNk11/RentaEquipos) · [Probar demo](https://nicolas-giron-rentaequipos-demo.nicogiron09.chatgpt.site/)
+
 ### ComercioPedidos · Gestión de indumentaria
 
 Sistema de retail con una API compartida para una aplicación web y una aplicación móvil. Integra gestión de productos, clientes, pedidos y movimientos de stock.
@@ -23,7 +39,7 @@ Sistema de retail con una API compartida para una aplicación web y una aplicaci
 
 La web y la aplicación móvil consumen los mismos endpoints para operar sobre productos, clientes y pedidos.
 
-[Explorar ComercioPedidos →](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd)
+[Explorar ComercioPedidos →](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd) · [Probar demo](https://nicolas-giron-comerciopedidos-demo.nicogiron09.chatgpt.site/)
 
 ### Body Sport Gym · Gestión de gimnasios
 
@@ -43,7 +59,19 @@ Aplicación configurable para consultorios y negocios de servicios. Integra prof
 
 Las reservas usan transacciones y bloqueo por profesional para evitar que dos operadores asignen el mismo horario. En el modo remoto, la conexión SQL permanece en el servidor.
 
-[Explorar Sistema de Turnos →](https://github.com/HiroNk11/Sistema-de-Turnos-)
+[Explorar Sistema de Turnos →](https://github.com/HiroNk11/Sistema-de-Turnos-) · [Probar demo web](https://nicolas-giron-sistema-turnos-demo.nicogiron09.chatgpt.site/)
+
+Las demos permiten recorrer las interfaces con datos ficticios. La demo web de Turnos es una adaptación del cliente Windows Forms; los requisitos y el alcance de cada aplicación están documentados en su repositorio.
+
+### RBAC / ITGC · Solicitudes de acceso y auditoría
+
+Prototipo de API para registrar solicitudes de acceso, validar incompatibilidades de roles y conservar eventos de auditoría encadenados por hash. Incluye idempotencia y autenticación con API key.
+
+**Stack:** C# · .NET 10 · ASP.NET Core · Pruebas de dominio y HTTP
+
+El almacenamiento es en memoria y se pierde al reiniciar. Este hito registra solicitudes; todavía no ejecuta el aprovisionamiento de cuentas.
+
+[Explorar RBAC / ITGC →](https://github.com/HiroNk11/rbac-itgc-provisioning)
 
 ### Northgate Reconciliation · Conciliación de datos
 
@@ -117,6 +145,9 @@ I'm exploring opportunities in **software development, data and cybersecurity**.
 
 | Project | Focus |
 | --- | --- |
+| [BurgerPedidos](https://github.com/HiroNk11/BurgerPedidos) | Food ordering platform with Expo storefront, React business panel and .NET 10 API; public demo with simulated payments. |
+| [RentaEquipos](https://github.com/HiroNk11/RentaEquipos) | Equipment availability, reservations, pickup and returns with ASP.NET Core 10, EF Core, SQL Server and React. |
+| [RBAC / ITGC](https://github.com/HiroNk11/rbac-itgc-provisioning) | In-memory access request API with role conflict validation, idempotency and hash-linked audit events; provisioning is not implemented yet. |
 | [ComercioPedidos](https://github.com/HiroNk11/Proyecto-BackEnd-BaseDeDatos-FrontEnd) | Retail management with ASP.NET Core, EF Core and SQL Server, shared by React web and React Native mobile clients. |
 | [Body Sport Gym](https://github.com/HiroNk11/Sistema-de-Gimnasios-C---ADO.NET) | Layered C# desktop application for memberships, payments, scheduling, reservations and attendance, using Windows Forms, ADO.NET and SQL Server. |
 | [Appointment System](https://github.com/HiroNk11/Sistema-de-Turnos-) | Configurable scheduling and payments with SQL concurrency controls, role-based access and an optional HTTPS client/server mode. |
